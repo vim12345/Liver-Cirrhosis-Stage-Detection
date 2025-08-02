@@ -57,6 +57,5 @@ streamlit run liver_dashboard.py
 - Add explainability using SHAP/LIME
 - Deploy on web using Streamlit
 
-## 📄 License
-
-This project is for educational and research purposes only.
+## ✍️ Author
+Prepared for project submission by Vimal Kumar
